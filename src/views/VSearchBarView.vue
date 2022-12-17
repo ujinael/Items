@@ -35,7 +35,7 @@ import VComponentWrapper from "../components/ui_components/VComponentWrapper.vue
   right: 14px;
   line-height: 24px;
   font-size: x-large;
-  color: #ffffff;
+  color: var(--color-text);
   cursor: pointer;
 }
 </style>

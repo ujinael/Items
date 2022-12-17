@@ -87,7 +87,7 @@ const modalBodyClasses = computed(() => {
 .close_btn {
   background-color: transparent;
   border: 1px solid transparent;
-  color: #ffffff;
+  color: var(--color-text);
   display: inline-block;
   position: absolute;
   right: 10px;

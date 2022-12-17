@@ -48,14 +48,12 @@ const dragEnd = () => {
 </script>
 <style scoped lang="scss">
 .v_grid_item__wrapper {
-  cursor: url("@/assets/simpli_cursor.svg");
 
   position: relative;
   height: 100%;
   width: 100%;
 }
 .v_grid_item {
-  cursor: url("@/assets/simpli_cursor.svg");
 
   height: 100%;
   width: 100%;

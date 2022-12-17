@@ -8,7 +8,5 @@ import { RouterView } from "vue-router";
 </script>
 <style lang="scss">
 @import "@/assets/main.scss";
-.app {
-  cursor: url("@/assets/simpli_cursor.svg");
-}
+
 </style>
